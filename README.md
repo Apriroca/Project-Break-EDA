@@ -1,6 +1,6 @@
 # 🏠 Análisis Exploratorio de Datos (EDA): Mercado Inmobiliario en Valencia
-
-Este proyecto realiza un análisis profundo del mercado de vivienda (venta y alquiler) en el municipio de Valencia. El objetivo es identificar patrones de precios, zonas tensionadas y la relación entre las características de los inmuebles y su valor de mercado.
+El analisis se basa en datos reales de mercado procedentes de portales inmobiliarios de referencia (Idealista, Habitaclia, Fotocasa...), correspondientes a annuncios de venta y alquiler en el municipio de Valencia publicados durante 2025.
+El objetivo es identificar patrones de precios, zonas tensionadas y la relación entre las características de los inmuebles y su valor de mercado.
 
 ## 👥 Equipo de Proyecto
 * **Integrante 1** (Gabriel) - Ingesta y Limpieza de Datos

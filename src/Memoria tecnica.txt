@@ -1,0 +1,5 @@
+Memoria tecnica: Analisis del Mercado Inmobiliario en Valencia (2025)
+Autores:Ana, Gabriel y Anaïs
+Contexto: Proyecto EDA - Bootcamp Data Analyst, The Bridge
+1.Resumen Ejecutivo : Este informe presenta un analisis exhaustivo del mercado de vivienda en la ciudad de Valencia, abarcando tanto el segmento de venta como el de alquiler. A traves de un proceso de ETL (Extraccion, Transformacion y Carga) y un analisis exploratorio de datos, se han identificado las zonas con mayor tension de precios, la rentabilidad por distritos y los factores que mas influyen en el valor de los inmuebles.
+

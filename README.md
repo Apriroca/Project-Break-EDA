@@ -3,10 +3,9 @@ El analisis se basa en datos reales de mercado procedentes de portales inmobilia
 El objetivo es identificar patrones de precios, zonas tensionadas y la relación entre las características de los inmuebles y su valor de mercado.
 
 ## 👥 Equipo de Proyecto
-* **Integrante 1** (Gabriel) - Ingesta y Limpieza de Datos
-* **Integrante 2** (Hector) - Análisis Estadístico
-* **Integrante 3** (Ana) - Visualización y Análisis Geográfico
-* **Integrante 4** (Anaïs) - Documentación y Conclusiones
+* **Integrante 1** (Gabriel) - Ingesta y Limpieza de Datos - Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones
+* **Integrante 2** (Ana) - Ingesta y Limpieza de Datos - Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones
+* **Integrante 3** (Anaïs) - Ingesta y Limpieza de Datos -  Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones
 
 ---
 

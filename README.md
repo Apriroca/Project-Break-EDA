@@ -1,11 +1,11 @@
 # 🏠 Análisis Exploratorio de Datos (EDA): Mercado Inmobiliario en Valencia
-El analisis se basa en datos reales de mercado procedentes de portales inmobiliarios de referencia (Idealista, Habitaclia, Fotocasa...), correspondientes a annuncios de venta y alquiler en el municipio de Valencia publicados durante 2025.
+El analisis se basa en datos reales de mercado procedentes de portales inmobiliarios de referencia (Habitaclia, Fotocasa, Milanuncios), correspondientes a annuncios de venta y alquiler en el municipio de Valencia publicados durante 2025.
 El objetivo es identificar patrones de precios, zonas tensionadas y la relación entre las características de los inmuebles y su valor de mercado.
 
 ## 👥 Equipo de Proyecto
-* **Integrante 1** (Gabriel) - Ingesta y Limpieza de Datos - Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones
-* **Integrante 2** (Ana) - Ingesta y Limpieza de Datos - Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones
-* **Integrante 3** (Anaïs) - Ingesta y Limpieza de Datos -  Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones
+* **Integrante 1** (Gabriel) - Ingesta y Limpieza de Datos - Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones - Presentacion PDF
+* **Integrante 2** (Ana) - Ingesta y Limpieza de Datos - Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones - Memoria
+* **Integrante 3** (Anaïs) - Ingesta y Limpieza de Datos -  Análisis Estadístico - Visualización y Análisis Geográfico - Documentación y Conclusiones - Main & Readme
 
 ---
 
@@ -30,11 +30,15 @@ Para validar nuestra hipótesis, el equipo busca responder:
 ---
 
 ## 📂 Estructura del Repositorio
-├── data/               # archivos CSV mensuales de DataVenues
-├── notebooks/          # Jupyter Notebooks con el análisis paso a paso
-├── src/                # Scripts de Python (limpieza y funciones)
-├── results/            # Gráficos y visualizaciones exportadas
-└── README.md           # Descripción del proyecto
+├── main.ipynb              # Notebook principal con el análisis final
+├── Memoria.pdf             # Documento técnico detallado
+├── Presentacion.pdf        # Diapositivas de la exposición
+├── README.md               # Descripción general del proyecto
+└── src/                    # Recursos y código fuente
+    ├── data/               # Archivos CSV utilizados en el análisis
+    ├── img/                # Recursos visuales y gráficas
+    ├── notebooks/          # Notebooks de desarrollo y borradores
+    └── utils/              # Funciones auxiliares y scripts de limpieza
 
 ---
 
@@ -51,3 +55,5 @@ Para validar nuestra hipótesis, el equipo busca responder:
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/Apriroca/Project-Break-EDA.git](https://github.com/Apriroca/Project-Break-EDA.git)
+   pip install pandas numpy matplotlib seaborn scipy
+   jupyter notebook main.ipynb

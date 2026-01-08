@@ -14,10 +14,10 @@ Existen diferencias significativas en los precios de venta y alquiler en Valenci
 
 ## 🔍 Preguntas de Investigación
 Para validar nuestra hipótesis, el equipo busca responder:
-1.  **Diferencias Geográficas:** ¿Existen brechas relevantes de precio entre los diferentes barrios de Valencia?
-2.  **Correlación de Atributos:** ¿Qué relación existe entre el precio y variables como la superficie o el número de habitaciones?
-3.  **Extremos de Mercado:** ¿Qué zonas concentran los precios más altos y más bajos en ambas modalidades (venta y alquiler)?
-4.  **Tensión de Alquiler:** ¿Se observan patrones de un mercado tensionado donde el alquiler es desproporcionadamente caro respecto a la compra?
+H1: Diferencias de precio por ubicación: Existen variaciones significativas en el precio por metro cuadrado dependiendo del distrito de Valencia.
+H2: Independencia del precio unitario respecto al tamaño: El precio por metro cuadrado está determinado por la ubicación de la vivienda y no por su tamaño.
+H3: Diferencia de demanda entre alquiler y venta: El mercado de alquiler tiene una demanda relativa mayor que el mercado de venta.
+H4: Comportamiento diferenciado por tipo de anunciante: Las preferencias sobre el tipo de operación (venta o alquiler) varían entre anunciantes particulares y profesionales.
 ---
 
 ## 🛠️ Tecnologías Utilizadas
